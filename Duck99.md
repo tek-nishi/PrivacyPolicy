@@ -1,4 +1,7 @@
-# Privacy Policy
+---
+layout: default
+title: Privacy Policy
+---
 
 This privacy policy applies to the Duck Island app (hereby referred to as "Application") for mobile devices that was created by new game style (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
